@@ -15,4 +15,5 @@ public class JRunnerTest {
 
 		System.out.println(result.wasSuccessful());
 	}
+	
 }
